@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner-part {
+    background-image: url(images-1/donation3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.banner-part .banner-overlay {
+    background: rgba(0, 0, 0, .65);
+}
+
+.banner-part .banner-text {
+    height: 600px;
+    width: 100%;
+    text-align: center;
+}
+
+.banner-part .banner-text h1.help {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 400;
+    padding-top: 150px;
+    margin-bottom: -10px;
+}
+
+.banner-part .banner-text h2.need {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.banner-part .banner-text p.one {
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 20px;
+    color: #fff;
+}
+
+.banner-part .banner-text p.two {
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 10px;
+    color: #fff;
+    padding-bottom: 40px;
+}
+
+.banner-part .banner-text a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 44px;
+    padding: 10px 20px;
+    transition: all linear .3s;
+    background: #e70505;
+    border-radius: 5px;
+    color: #fff
+}
+
+.banner-part .banner-text a:hover {
+    color: #f1f1f1;
+    background: rgb(154, 88, 216);
+}
