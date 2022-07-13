@@ -149,36 +149,24 @@ p {
     
 }
 
-/* donate-part .donate-menu{}
-.donate-part .donate-button h3 {
-    color:silver;
-    padding-left:430px;
-    padding-top:120px;
-    border-bottom:2px solid silver;
-    padding-bottom:20px;
 
-    
-}
-.donate-part .donate-button {}
-.donate-part .donate-button a{
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 44px;
-    padding: 10px 20px;
-    transition: all linear .3s;
-  
-    border-radius: 5px;
-   
-    margin-top:50px;
-
-}*/
 
 .donate-part .form {
-
-    margin-top:130px;
-    margin-left:15px;
     
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+   
+   
+   
     
 }
 .donate-part .form input{
@@ -201,6 +189,7 @@ p {
     
 
 
+/*
 .donate-part .form .content-name{
    padding-left:270px;
     
@@ -209,7 +198,7 @@ p {
    
     color:silver;
     font-size:20px;
-}
+}*/
 .donate-part .donate-button{
     padding-left:600px;
 }
